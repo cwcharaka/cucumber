@@ -1,2 +1,10 @@
 This my first cucumber tutorial.
-writting basic feature files and step definitions.
+Creating basic scenarios
+Adding step definitions
+Implementing step definitions
+Environment, Hooks
+HTML Formatters
+Placeholders
+Tagging
+
+
