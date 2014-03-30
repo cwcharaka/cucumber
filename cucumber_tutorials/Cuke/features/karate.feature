@@ -10,5 +10,3 @@ Scenario Outline: Where is the Master?
         | Wado        | Hironori      |
         | Shotokan    | Harrogate     |
         | Goju        | Shihan        |
-        
-    
